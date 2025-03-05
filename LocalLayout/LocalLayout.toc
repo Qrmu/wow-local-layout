@@ -1,0 +1,4 @@
+## Interface: 110005
+## SavedVariablesPerCharacter: LocalLayoutDB
+
+LocalLayout.lua
